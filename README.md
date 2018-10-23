@@ -1,0 +1,2 @@
+# jsutils
+Javascript Utils Library
